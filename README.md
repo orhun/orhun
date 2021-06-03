@@ -16,6 +16,7 @@ Other than that, here are a few interesting **projects** that worth mentioning:
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator
 - [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes
 - [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor
+- [grapheneX](https://github.com/grapheneX/grapheneX) - Automated system hardening framework
 - [Picasso](https://github.com/orhun/Picasso) - PIC16F877A based 5V/20MHz development board and PIC programmer
 
 I sometimes write [blog](https://orhun.dev/blog/) posts and occasionally [tweet](https://twitter.com/orhunp_) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/orhunp/) about **job-related** matters.
