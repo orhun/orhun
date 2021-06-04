@@ -19,6 +19,8 @@ Other than that, here are a few interesting **projects** (written in **C**, **Go
 - [grapheneX](https://github.com/grapheneX/grapheneX) - Automated system hardening framework
 - [Picasso](https://github.com/orhun/Picasso) - PIC16F877A based 5V/20MHz development board and PIC programmer
 
+I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of packages for [Arch Linux](https://archlinux.org/), including some popular **Rust** software. I also contribute to [Reproducible Builds](https://reproducible-builds.org/) and various other open source projects through this voluntary work.
+
 I sometimes write [blog](https://orhun.dev/blog/) posts and occasionally [tweet](https://twitter.com/orhunp_) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/orhunp/) about **job-related** matters.
 
 If you want to support my work, consider [becoming a patron](https://patreon.com/join/orhunp) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region.
