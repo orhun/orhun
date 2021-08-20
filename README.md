@@ -10,7 +10,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 I mostly write **Rust** these days. See my _pinned repositories_ below.
 
-Other than that, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **Js**) that worth mentioning:
+Other than that, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **JS**) that worth mentioning:
 
 - [CoolModFiles](https://coolmodfiles.com/) - A web player that plays some cool MOD files randomly
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator
