@@ -26,6 +26,6 @@ I sometimes write [blog](https://orhun.dev/blog/) posts and occasionally [tweet]
 
 If you want to support my work, consider [becoming a patron](https://patreon.com/join/orhunp) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region.
 
-Big thanks to my patrons for supporting my work <3 [@ethmtrgt](https://github.com/ethmtrgt)
+Big thanks to my patrons <3 [@ethmtrgt](https://github.com/ethmtrgt)
 
 ~ [_orhun.dev_](https://orhun.dev/)
