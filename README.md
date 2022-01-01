@@ -12,7 +12,7 @@ I mostly write **Rust** these days. See my _pinned repositories_ below.
 
 Other than that, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **JS**) that worth mentioning:
 
-- [CoolModFiles](https://coolmodfiles.com/) - A web player that plays some cool MOD files randomly
+- [CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator
 - [zps](https://github.com/orhun/zps) - A small utility for listing and reaping zombie processes
 - [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor
