@@ -26,6 +26,6 @@ I sometimes write [blog](https://orhun.dev/blog/) posts and occasionally [tweet]
 
 If you want to support my work, consider [becoming a patron](https://patreon.com/join/orhunp) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region. Shout-out to [@alisomay](https://github.com/alisomay), [@sassman](https://github.com/sassman) & [@erlend-sh](https://github.com/erlend-sh) for the support <3
 
-Ping me [on IRC](irc://irc.libera.chat:orhun) if you want to have a chat!
+Ping me on `IRC.libera.chat:orhun` if you want to have a chat!
 
 **~** [_orhun.dev_](https://orhun.dev/)
