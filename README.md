@@ -10,7 +10,7 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 I mostly write **Rust** these days. See my _pinned repositories_ below.
 
-Other than that, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **JS**) that worth mentioning:
+Other than that, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **JS**) that are worth mentioning:
 
 - [CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator
@@ -24,6 +24,8 @@ I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of pack
 
 I sometimes write [blog](https://orhun.dev/blog/) posts and occasionally [tweet](https://twitter.com/orhunp_) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/orhunp/) about **job-related** matters.
 
-If you want to support my work, consider [becoming a patron](https://patreon.com/join/orhunp) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region.
+If you want to support my work, consider [becoming a patron](https://patreon.com/join/orhunp) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region. Shout-out to [@alisomay](https://github.com/alisomay), [@sassman](https://github.com/sassman) & [@erlend-sh](https://github.com/erlend-sh) for the support <3
 
-~ [_orhun.dev_](https://orhun.dev/)
+Ping me [on IRC](irc://irc.libera.chat:orhun) if you want to have a chat!
+
+**~** [_orhun.dev_](https://orhun.dev/)
