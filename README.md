@@ -24,7 +24,7 @@ I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of pack
 
 I sometimes write [blog](https://blog.orhun.dev) posts and occasionally [tweet](https://twitter.com/orhunp_) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/orhunp/) about **job-related** matters.
 
-If you want to support my work, consider [becoming a patron](https://patreon.com/join/orhunp) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region. Shout-out to [@alisomay](https://github.com/alisomay), [@sassman](https://github.com/sassman) & [@erlend-sh](https://github.com/erlend-sh) for the support <3
+If you want to support my work, consider [becoming a patron](https://patreon.com/join/orhunp) on **Patreon**. Unfortunately, GitHub Sponsors is not _supported_ in my region. Shout-out to [@alisomay](https://github.com/alisomay), [@sassman](https://github.com/sassman), [@erlend-sh](https://github.com/erlend-sh), [@aylingumus](https://github.com/aylingumus), [@jack5341](https://github.com/jack5341) & [@kakkoyun](https://github.com/kakkoyun) for the support <3
 
 Ping me on `IRC.libera.chat:orhun` if you want to chat!
 
