@@ -8,9 +8,11 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
 
+I joined GitHub **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
 I mostly write **Rust** these days. See my _pinned repositories_ below.
 
-Other than that, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **JS**) that are worth mentioning:
+Also, here are a few interesting **projects** (written in **C**, **Go**, **Python**, **JS**) that are worth mentioning:
 
 - [CoolModFiles](https://github.com/orhun/CoolModFiles) - A web player that plays some cool MOD files randomly
 - [kermit](https://github.com/orhun/kermit) - A VTE-based, simple and froggy terminal emulator
