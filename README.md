@@ -30,4 +30,9 @@ If you want to support my work, consider becoming a sponsor on [GitHub Sponsors]
 
 Ping me on `IRC.libera.chat:orhun` if you want to chat!
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=orhun&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhun&hide=TeX&layout=compact)
+
+## 💻 Check Out My Repos ⬇️ 
+
 **~** [_orhun.dev_](https://orhun.dev/)
