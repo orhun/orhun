@@ -4,11 +4,11 @@
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/orhun.gpg)
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=313131&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views)](https://github.com/orhun)
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **17395** commits, opened **217** issues, submitted **523** pull requests, received **10990** stars across **103** personal projects, and contributed to **145** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **17398** commits, opened **217** issues, submitted **523** pull requests, received **10997** stars across **103** personal projects, and contributed to **145** public repositories.
 
 Here is a list of my **projects** that are worth mentioning:
 
