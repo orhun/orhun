@@ -22,7 +22,7 @@ I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of pack
 
 I sometimes write [blog posts](https://blog.orhun.dev) and occasionally [tweet](https://twitter.com/orhunp_) about stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/orhunp/) about **job-related** matters.
 
-If you want to support my work, consider becoming a sponsor on [GitHub Sponsors](https://github.com/sponsors/orhun) or [becoming a patron](https://patreon.com/join/orhunp).
+If you want to support my work, consider [donating](https://donate.orhun.dev)!
 
 Ping me on `IRC.libera.chat:orhun` if you want to chat!
 
