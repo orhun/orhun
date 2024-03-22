@@ -18,15 +18,13 @@ Here is a list of my **personal projects**:
 
 <center>
 
-Run `ssh git.orhun.dev` to browse my repositories on your terminal.
+Tip: Run `ssh git.orhun.dev` to browse my repositories on your terminal.
 
 </center>
 
-**\>_** Also, I am actively working on [Ratatui](https://ratatui.rs/) (a Rust library for creating TUIs) - where we work towards building the future of the terminal!
+**\>\_** Also, I am actively working on [Ratatui](https://ratatui.rs/) (a Rust library for creating TUIs) - where we work towards building the future of the terminal!
 
-I maintain packages for and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z) and [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) btw. Check out my dotfiles [here](https://github.com/orhun/dotfiles).
-
-I regularly write [blog posts](https://blog.orhun.dev) about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/orhunp_)/[Mastodon](https://fosstodon.org/@orhun). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/orhunp/).
+I maintain packages for and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z) and [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) btw. Check out my **dotfiles** [here](https://github.com/orhun/dotfiles). I regularly write [blog posts](https://blog.orhun.dev) about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/orhunp_)/[Mastodon](https://fosstodon.org/@orhun). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/orhunp/).
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/orhun)! 💖
 
