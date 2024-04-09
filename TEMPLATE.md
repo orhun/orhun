@@ -34,4 +34,10 @@ If you want to support my work, consider [sponsoring me](https://github.com/spon
   <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
 </a>
 
+<br>
+
+<center>
+
 **~** [_orhun.dev_](https://orhun.dev/)
+
+</center>
