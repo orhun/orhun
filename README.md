@@ -8,7 +8,7 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 
 <br>
 
-Ever since I joined GitHub **7** years ago, I pushed **23682** commits, opened **397** issues, submitted **965** pull requests, received **16039** stars across **115** personal projects, and contributed to **167** public repositories.
+Ever since I joined GitHub **7** years ago, I pushed **23683** commits, opened **397** issues, submitted **965** pull requests, received **16039** stars across **115** personal projects, and contributed to **167** public repositories.
 
 Here is a list of my **personal projects**:
 
@@ -28,16 +28,10 @@ I maintain packages for and [Alpine Linux](https://pkgs.alpinelinux.org/packages
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/orhun)! 💖
 
+**~** [_orhun.dev_](https://orhun.dev/)
+
 ✨ Sponsored by:
 
 <a href="https://terminaltrove.com/">
   <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
 </a>
-
-<br>
-
-<center>
-
-**~** [_orhun.dev_](https://orhun.dev/)
-
-</center>
