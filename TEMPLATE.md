@@ -28,4 +28,10 @@ I maintain packages for and [Alpine Linux](https://pkgs.alpinelinux.org/packages
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/orhun)! 💖
 
+✨ Sponsored by:
+
+<a href="https://terminaltrove.com/">
+  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
+</a>
+
 **~** [_orhun.dev_](https://orhun.dev/)
