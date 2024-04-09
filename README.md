@@ -8,7 +8,7 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 
 <br>
 
-Ever since I joined GitHub **7** years ago, I pushed **23670** commits, opened **397** issues, submitted **965** pull requests, received **16034** stars across **115** personal projects, and contributed to **167** public repositories.
+Ever since I joined GitHub **7** years ago, I pushed **23681** commits, opened **397** issues, submitted **965** pull requests, received **16039** stars across **115** personal projects, and contributed to **167** public repositories.
 
 Here is a list of my **personal projects**:
 
@@ -27,5 +27,11 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories on your terminal.
 I maintain packages for and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z) and [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) btw. Check out my **dotfiles** [here](https://github.com/orhun/dotfiles). I regularly write [blog posts](https://blog.orhun.dev) about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/orhunp_)/[Mastodon](https://fosstodon.org/@orhun). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/orhunp/).
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/orhun)! 💖
+
+✨ Sponsored by:
+
+<a href="https://terminaltrove.com/">
+  <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
+</a>
 
 **~** [_orhun.dev_](https://orhun.dev/)
