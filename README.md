@@ -8,7 +8,7 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 
 <br>
 
-Ever since I joined GitHub **7** years ago, I pushed **25123** commits, opened **448** issues, submitted **1084** pull requests, received **17496** stars across **116** personal projects, and contributed to **197** public repositories.
+Ever since I joined GitHub **7** years ago, I pushed **25188** commits, opened **449** issues, submitted **1085** pull requests, received **17507** stars across **116** personal projects, and contributed to **198** public repositories.
 
 Here is a list of my **personal projects**:
 
@@ -32,6 +32,10 @@ If you want to support my work, consider [sponsoring me](https://github.com/spon
 
 ✨ Sponsored by:
 
-<a href="https://terminaltrove.com/">
+<a href="https://terminaltrove.com/" target="_blank">
   <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
+</a>
+
+<a href="https://rawkode.academy/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/rawkode_academy.png" alt="Rawkode Academy" height="40">
 </a>
