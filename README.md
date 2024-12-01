@@ -4,11 +4,11 @@
 
 I'm **Orhun**, a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
 
 <br>
 
-Ever since I joined GitHub **7** years ago, I pushed **26636** commits, opened **537** issues, submitted **1325** pull requests, received **18209** stars across **123** personal projects, and contributed to **235** public repositories.
+Ever since I joined GitHub **7** years ago, I pushed **26652** commits, opened **537** issues, submitted **1330** pull requests, received **18213** stars across **123** personal projects, and contributed to **236** public repositories.
 
 Here is a list of my **personal projects**:
 
