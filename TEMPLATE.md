@@ -39,7 +39,3 @@ If you want to support my work, consider [sponsoring me](https://github.com/spon
 <a href="https://rawkode.academy/" target="_blank">
   <img src="https://blog.orhun.dev/sponsors/rawkode_academy.png" alt="Rawkode Academy" height="40">
 </a>
-
-<a href="https://malwation.com/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/malwation.svg" alt="Malwation" height="35">
-</a>
