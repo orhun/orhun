@@ -43,7 +43,7 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have:
 
 <center>
 
-Tip: Run `ssh git.orhun.dev` to browse my repositories on your terminal.
+█ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
 
 </center>
 
