@@ -24,10 +24,10 @@
 
 I joined GitHub **8** years ago and since then I have:
 
-- pushed **27343** commits,
+- pushed **27345** commits,
 - opened **569** issues,
 - submitted **1408** PRs,
-- received **18624** stars across **127** personal projects,
+- received **18625** stars across **127** personal projects,
 - contributed to **243** public repositories.
 
 </details>
@@ -43,7 +43,7 @@ I joined GitHub **8** years ago and since then I have:
 
 <center>
 
-Tip: Run `ssh git.orhun.dev` to browse my repositories on your terminal.
+█ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
 
 </center>
 
