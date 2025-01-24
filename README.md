@@ -1,4 +1,6 @@
+<a href="https://ratatui.rs" target="_blank">
 <img align="left" src="./assets/ratatui-spin.gif">
+</a>
 
 ### Hey!
 
@@ -22,7 +24,7 @@
 
 I joined GitHub **8** years ago and since then I have:
 
-- pushed **27341** commits,
+- pushed **27343** commits,
 - opened **569** issues,
 - submitted **1408** PRs,
 - received **18624** stars across **127** personal projects,
