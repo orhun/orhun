@@ -11,6 +11,8 @@
 [![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
 
 <br>
+<br>
+<br>
 
 <details>
 <summary><b>stats</b></summary>
@@ -19,7 +21,7 @@
 
 I joined GitHub **8** years ago and since then I have:
 
-- pushed **27337** commits,
+- pushed **27339** commits,
 - opened **569** issues,
 - submitted **1408** PRs,
 - received **18624** stars across **127** personal projects,
