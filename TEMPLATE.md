@@ -1,4 +1,6 @@
+<a href="https://ratatui.rs" target="_blank">
 <img align="left" src="./assets/ratatui-spin.gif">
+</a>
 
 ### Hey!
 
