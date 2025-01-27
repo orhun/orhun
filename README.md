@@ -1,5 +1,8 @@
 <a href="https://ratatui.rs" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+</a>
+
+<a href="https://ratatui.rs" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 </a>
 
@@ -20,7 +23,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **8** years ago and since then I have pushed **27400** commits, opened **570** issues, submitted **1412** PRs, received **18638** stars across **127** personal projects and contributed to **243** public repositories.
+I joined GitHub **8** years ago and since then I have pushed **27402** commits, opened **570** issues, submitted **1412** PRs, received **18638** stars across **127** personal projects and contributed to **243** public repositories.
 
 #### 🌀 Projects
 
