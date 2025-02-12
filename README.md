@@ -9,7 +9,7 @@
 
 🐁 I work on terminal tooling and libraries.
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/The-Grindhouse/guidelines)
+[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=orhun&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun) [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue?style=flat&labelColor=545454&color=313131)](https://github.com/grindhousedev/guidelines)
 
 <br>
 <br>
@@ -18,7 +18,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **8** years ago and since then I have pushed **27558** commits, opened **579** issues, submitted **1444** PRs, received **18746** stars across **128** personal projects and contributed to **243** public repositories.
+I joined GitHub **8** years ago and since then I have pushed **27561** commits, opened **579** issues, submitted **1444** PRs, received **18747** stars across **128** personal projects and contributed to **243** public repositories.
 
 #### 🌀 Projects
 
