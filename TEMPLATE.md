@@ -48,6 +48,10 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
 
 ✨ [Sponsored by](https://github.com/sponsors/orhun):
 
+<a href="https://jetbrains.com/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/jetbrains.png" alt="JetBrains" height="45">
+</a>
+
 <a href="https://terminaltrove.com/" target="_blank">
   <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
 </a>
