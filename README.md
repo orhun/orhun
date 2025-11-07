@@ -18,7 +18,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **8** years ago and since then I have pushed **29659** commits, opened **719** issues, submitted **1573** PRs, received **20891** stars across **144** personal projects and contributed to **174** public repositories.
+I joined GitHub **8** years ago and since then I have pushed **29666** commits, opened **719** issues, submitted **1573** PRs, received **20900** stars across **144** personal projects and contributed to **173** public repositories.
 
 #### 🌀 Projects
 
@@ -50,10 +50,6 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
 
 <a href="https://terminaltrove.com/" target="_blank">
   <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
-</a>
-
-<a href="https://rawkode.academy/" target="_blank">
-  <img src="https://blog.orhun.dev/sponsors/rawkode_academy.png" alt="Rawkode Academy" height="40">
 </a>
 
 <a href="https://jetbrains.com/" target="_blank">
