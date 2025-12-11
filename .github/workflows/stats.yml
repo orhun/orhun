@@ -18,7 +18,7 @@ jobs:
         uses: night-slayer18/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
-          lifetimeSteak: true
+          lifetimeStreak: true
       - name: Update README.md
         shell: bash
         run: |
