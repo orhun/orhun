@@ -15,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Generate README.md
-        uses: night-slayer18/profile-readme-stats@master
+        uses: orhun/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
           lifetimeStreak: true
