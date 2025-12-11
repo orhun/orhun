@@ -18,7 +18,9 @@
 
 #### ⚡ Stats
 
-I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** PRs, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+I joined GitHub **{{ ACCOUNT_AGE }}** years ago and since then I have pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** PRs, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.  
+
+Currently on a {{ COMMIT_STREAK }} day commit streak (longest: {{ LONGEST_COMMIT_STREAK }} days).
 
 #### 🌀 Projects
 
@@ -55,6 +57,8 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
 <a href="https://jetbrains.com/" target="_blank">
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains" height="35">
 </a>
+
+Also big thanks to my [{{ SPONSORS }}](https://github.com/sponsors/orhun) sponsors!
 
 <div align="right">
 
