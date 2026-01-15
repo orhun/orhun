@@ -18,9 +18,9 @@
 
 #### ⚡ Stats
 
-I joined GitHub **9** years ago and since then I have pushed **30245** commits, opened **745** issues, submitted **1626** PRs, received **21351** stars across **146** personal projects and contributed to **164** public repositories.  
+I joined GitHub **9** years ago and since then I have pushed **30251** commits, opened **745** issues, submitted **1628** PRs, received **21356** stars across **146** personal projects and contributed to **163** public repositories.  
 
-Currently on a **2532** day commit streak.
+Currently on a **2533** day commit streak.
 
 #### 🌀 Projects
 
@@ -37,6 +37,7 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
 | **Maintaining**   | [Ratatui](https://github.com/ratatui/ratatui) – A Rust library for building TUIs.                                                                                                                         |
 |                   | [git-cliff](https://github.com/orhun/git-cliff) – A CLI tool for generating changelogs.                                                                                                                   |
 |                   | Rust packages for [Arch Linux](https://archlinux.org/packages/?maintainer=orhun) and [Alpine Linux](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Orhun+Parmaks%C4%B1z). |
+| **Building**      | A guitar training tool & DIY kit called [Tuitar](https://github.com/orhun/tuitar).                                                                                                                        |
 | **Creating**      | New terminal tools and libraries like [binsider](https://github.com/orhun/binsider) and [ratzilla](https://github.com/orhun/ratzilla).                                                                    |
 | **Writing**       | [Blog posts](https://blog.orhun.dev).                                                                                                                                                                     |
 | **Yapping**       | [X](https://x.com/orhundev) / [Mastodon](https://fosstodon.org/@orhun) / [Bluesky](https://bsky.app/profile/orhun.dev) / [LinkedIn](https://www.linkedin.com/in/orhunp).                                  |
