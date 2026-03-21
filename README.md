@@ -18,7 +18,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **9** years ago and have since pushed **30872** commits, opened **763** issues, submitted **1686** pull requests, and earned **21979** stars across **148** personal projects, with contributions to **149** public repositories.
+I joined GitHub **9** years ago and have since pushed **30881** commits, opened **763** issues, submitted **1687** pull requests, and earned **21980** stars across **148** personal projects, with contributions to **149** public repositories.
 
 I'm currently on a **5**-day commit streak.
 
@@ -55,6 +55,10 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
 
 <a href="https://jetbrains.com/" target="_blank">
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains" height="35">
+</a>
+
+<a href="https://recall.ai/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/recall.jpg" alt="Recall" height="40">
 </a>
 
 Also big thanks to my [36](https://github.com/sponsors/orhun) sponsors!
