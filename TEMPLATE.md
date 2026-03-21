@@ -57,6 +57,10 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains" height="35">
 </a>
 
+<a href="https://recall.ai/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/recall.jpg" alt="Recall" height="40">
+</a>
+
 Also big thanks to my [{{ SPONSORS }}](https://github.com/sponsors/orhun) sponsors!
 
 <div align="right">
