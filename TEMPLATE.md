@@ -61,6 +61,10 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
   <img src="https://blog.orhun.dev/sponsors/recall.jpg" alt="Recall" height="40">
 </a>
 
+<a href="https://opensource.sap.com/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/sap.png" alt="SAP" height="40">
+</a>
+
 Also big thanks to my [{{ SPONSORS }}](https://github.com/sponsors/orhun) sponsors!
 
 <div align="right">
