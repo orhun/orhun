@@ -53,12 +53,12 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
   <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
 </a>
 
-<a href="https://jetbrains.com/" target="_blank">
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains" height="35">
-</a>
-
 <a href="https://recall.ai/" target="_blank">
   <img src="https://blog.orhun.dev/sponsors/recall.jpg" alt="Recall" height="40">
+</a>
+
+<a href="https://encore.dev/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/encore.svg" alt="Encore" height="34">
 </a>
 
 <a href="https://opensource.sap.com/" target="_blank">
