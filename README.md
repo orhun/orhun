@@ -18,7 +18,7 @@
 
 #### ⚡ Stats
 
-I joined GitHub **9** years ago and have since pushed **33129** commits, opened **826** issues, submitted **1864** pull requests, and earned **23274** stars across **172** personal projects, with contributions to **107** public repositories.
+I joined GitHub **9** years ago and have since pushed **33135** commits, opened **826** issues, submitted **1864** pull requests, and earned **23275** stars across **172** personal projects, with contributions to **107** public repositories.
 
 I'm currently on a **2844**-day commit streak.
 
@@ -65,7 +65,7 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
   <img src="https://blog.orhun.dev/sponsors/sap.png" alt="SAP" height="40">
 </a>
 
-Also big thanks to my [28](https://github.com/sponsors/orhun) sponsors!
+Also big thanks to my [29](https://github.com/sponsors/orhun) sponsors!
 
 <div align="right">
 
