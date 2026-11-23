@@ -18,9 +18,9 @@
 
 #### ⚡ Stats
 
-I joined GitHub **9** years ago and have since pushed **33135** commits, opened **826** issues, submitted **1864** pull requests, and earned **23275** stars across **172** personal projects, with contributions to **107** public repositories.
+I joined GitHub **9** years ago and have since pushed **33163** commits, opened **826** issues, submitted **1864** pull requests, and earned **23277** stars across **173** personal projects, with contributions to **107** public repositories.
 
-I'm currently on a **2844**-day commit streak.
+I'm currently on a **2845**-day commit streak.
 
 #### 🌀 Projects
 
@@ -53,12 +53,12 @@ Tip: Run `ssh git.orhun.dev` to browse my repositories in your terminal.
   <img src="https://blog.orhun.dev/sponsors/terminal_trove.png" alt="Terminal Trove" height="40">
 </a>
 
-<a href="https://jetbrains.com/" target="_blank">
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" alt="JetBrains" height="35">
-</a>
-
 <a href="https://recall.ai/" target="_blank">
   <img src="https://blog.orhun.dev/sponsors/recall.jpg" alt="Recall" height="40">
+</a>
+
+<a href="https://encore.dev/" target="_blank">
+  <img src="https://blog.orhun.dev/sponsors/encore.svg" alt="Encore" height="34">
 </a>
 
 <a href="https://opensource.sap.com/" target="_blank">
